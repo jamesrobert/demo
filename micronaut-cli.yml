@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, config4k, flyway, gradle, http-client, jib, junit, kafka, kotlin, kotlin-application, kotlin-extension-functions, kubernetes, log4j2, management, micrometer, micrometer-statsd, netty-server, openapi, readme]
